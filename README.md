@@ -36,7 +36,7 @@ Backend: Node.js (Handled via API calls)
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/RAG-Document-QA.git
+git clone https://github.com/abdurraheem29/RAG-Document-QA.git
 cd RAG-Document-QA
 
 2️⃣ Install Dependencies
